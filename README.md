@@ -9,4 +9,5 @@ Mathematics has always fascinated me since my childhood, and I'm glad that I end
 I am yet to discover my precise career where a strong foundation in mathematics, statistics and programming would be put into good use. Currently, my interests lie in machine learning(love the math behind it), quantum computing, computational biology, blockchain development, and financial analysis. 
 
 Despite being this nerdy, I'm an amateur footballer, table tennis and chess player and I love to play my ukulele :) 
+
 Feel free to reach out to me at my [gmail](mailto:ananyapam7@gmail.com)
