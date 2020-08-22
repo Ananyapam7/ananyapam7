@@ -7,4 +7,4 @@ I am yet to discover my precise career where a strong foundation in mathematics,
 
 Despite being this nerdy, I'm an amateur footballer, table tennis and chess player and I love to play my ukulele :) 
 
-Feel free to reach out to me at my [gmail](mailto:ananyapam7@gmail.com)
+Feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in)
