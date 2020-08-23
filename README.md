@@ -7,4 +7,4 @@ Currently, my interests lie in machine learning(love the math behind it), quantu
 
 Despite being this nerdy, I'm an amateur footballer, table tennis and chess player and I love to play my ukulele :) 
 
-Feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in)
+Feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in) or [LinkedIn](https://www.linkedin.com/in/ananyapam-de-523757166/)
