@@ -3,7 +3,7 @@ Did you know the entire mathematics would topple without using σ-algebras in de
 
 Mathematics has always fascinated me since my childhood, and I'm glad that I ended up pursuing it. The perfect blend of rigor and versatility of the subject makes it fulfilling to study and cheerful to work with. Although this subject is my major, I have a tingling interest in computational biology, particularly in genetics and network-neuroscience where I find astonishing similarities with computer science, which is my minor. I also had the privilege to study physics in my institute and ideas from quantum physics and their uses in quantum computation continue to enthrall me.
 
-My interests lie in Statistics and Machine Intelligence, with a particular focus on Computer Vision and Natural Language Processing, Graph Theory and Network Analysis, and Quantitative as well as Micro and Macro Economics along with Financial Risk Management.  
+My interests lie in Statistics and Machine Intelligence, with a particular focus on Computer Vision and Natural Language Processing, Graph Theory and Network Analysis, and Quantitative as well as Micro and Macro Economics along with valuation modelling in Financial Risk Management.  
 
 Despite being this nerdy, I'm an amateur footballer, table tennis and chess player and I love to play my ukulele :) 
 
