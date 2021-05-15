@@ -7,4 +7,4 @@ As you can see, I've explored quite a few diverse fields. However after trying m
 
 Despite being this nerdy, I'm an amateur footballer, table tennis and chess player and I love to play my ukulele :) 
 
-Check out my [personal website](https://ananyapam7.github.io/) or my [institutional webpage](https://students.iiserkol.ac.in/~ad18ms075/) and feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in) or [LinkedIn](https://www.linkedin.com/in/ananyapam-de-523757166/)
+Check out my [personal website](https://ananyapam7.github.io/) or my [institutional webpage](https://students.iiserkol.ac.in/~ad18ms075/) and feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in) or [LinkedIn](https://www.linkedin.com/in/ananyapam-de-523757166/)!
