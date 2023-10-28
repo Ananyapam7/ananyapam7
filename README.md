@@ -9,6 +9,6 @@ Despite being this nerdy, I'm an amateur footballer, table tennis and chess play
 
 Check out my [personal website](https://ananyapam7.github.io/) or my [institutional webpage](https://students.iiserkol.ac.in/~ad18ms075/) and feel free to reach out to me at my [mail](mailto:ad18ms075@iiserkol.ac.in) or [LinkedIn](https://www.linkedin.com/in/ananyapam-de-523757166/)!
 
-#![Ananyapam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyapam7&show_icons=true&theme=radical)
+#![Ananyapam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ananyapam7&show_icons=true&theme=radical&rank_icon=github)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyapam7&layout=pie&theme=radical)](https://github.com/Ananyapam7/github-readme-stats)
