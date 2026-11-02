@@ -19,5 +19,4 @@ Check out my [personal website](https://ananyapam7.github.io/) or feel free to r
 
 [website]: https://ananyapam7.github.io
 [gmail]: mailto:ananyapam7@gmail.com
-[twitter]: https://twitter.com/AnanyapamD
 [linkedin]: https://www.linkedin.com/in/ananyapam-de-523757166/
